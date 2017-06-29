@@ -47,6 +47,7 @@
     <Compile Include="Exercise11.cs" />
     <Compile Include="Exercise7.cs" />
     <Compile Include="Exercise8.cs" />
+    <Compile Include="OOPActivity.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

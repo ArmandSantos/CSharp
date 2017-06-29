@@ -34,7 +34,9 @@ namespace ConsoleApp1
 
                 default:
                     Console.WriteLine("Choose within the range!");
-                    break;
+                    Console.ReadLine();
+
+                        break;
 
             }
 
