@@ -50,6 +50,8 @@
     <Compile Include="OOPActivity.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SatelliteWatcher_SirNitz.cs" />
+    <Compile Include="Satellite_SirNitz.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
